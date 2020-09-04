@@ -1,0 +1,11 @@
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/Deck/bin/Debug/netcoreapp2.2/Deck.deps.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/Deck/bin/Debug/netcoreapp2.2/Deck.runtimeconfig.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/Deck/bin/Debug/netcoreapp2.2/Deck.runtimeconfig.dev.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/Deck/bin/Debug/netcoreapp2.2/Deck.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/Deck/bin/Debug/netcoreapp2.2/Deck.pdb
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/Deck/obj/Debug/netcoreapp2.2/Deck.csprojAssemblyReference.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/Deck/obj/Debug/netcoreapp2.2/Deck.csproj.CoreCompileInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/Deck/obj/Debug/netcoreapp2.2/Deck.AssemblyInfoInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/Deck/obj/Debug/netcoreapp2.2/Deck.AssemblyInfo.cs
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/Deck/obj/Debug/netcoreapp2.2/Deck.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/first_week/second_day/Deck/obj/Debug/netcoreapp2.2/Deck.pdb
